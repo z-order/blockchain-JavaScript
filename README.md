@@ -16,7 +16,7 @@ Chapter 02 블록체인 구축
 
 Chapter 03 API를 이용한 블록체인 액스
 
-Chapter 04 탈중앙화 블록에인 네트워크 생성
+Chapter 04 탈중앙화 블록체인 네트워크 생성
 
 Chapter 05 네트워크 동기화
 
